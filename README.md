@@ -1,4 +1,5 @@
 # Arduino File to Hex
+[![License](https://img.shields.io/badge/LICENSE-The%20Unlicense-green?style=flat-square&logo=Arduino)](/LICENSE)
 #### Представляет двоичный файл в виде набора байтов в формате массива C.
 Пример результата работы:
 > #include <avr/pgmspace.h>
