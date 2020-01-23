@@ -1,5 +1,6 @@
 # Arduino File to Hex
 [![License](https://img.shields.io/badge/LICENSE-The%20Unlicense-green?style=flat-square&logo=Arduino)](/LICENSE)  [![Version](https://img.shields.io/badge/VERSION-RELEASE%20--%201.0-green?style=flat-square)](https://github.com/averov90/Arduino_File2Hex/releases/tag/1.0)
+### :small_orange_diamond: [English version](https://github.com/averov90/Arduino_File2Hex/blob/master/README-eng.md)
 #### Представляет двоичный файл в виде набора байтов в формате массива C.
 Пример результата работы:
 
